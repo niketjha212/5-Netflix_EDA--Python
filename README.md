@@ -30,6 +30,8 @@ This analysis reflects the type of data investigation used in **content strategy
 
 ## 📁 Dataset Overview
 
+## 📁 Dataset Overview
+
 | Feature | Value |
 |--------|--------|
 | **Total Records** | 8,807 titles |
@@ -38,6 +40,9 @@ This analysis reflects the type of data investigation used in **content strategy
 | **Ratings Available** | 14 categories |
 | **Countries Covered** | 100+ |
 | **Missing Values** | Cleaned, treated & imputed |
+| **Data Source** | Publicly available dataset from **Kaggle** |
+
+The dataset was originally published on Kaggle by community contributors and contains detailed information on Netflix Movies and TV Shows, including type, country, release year, rating, duration, and description.
 
 ---
 
@@ -136,17 +141,42 @@ Family-friendly content forms a much smaller portion.
 
 ---
 
-# 🧾 Conclusion
+## 📁 Conclusion (Insight-Driven)
 
-This Exploratory Data Analysis reveals that Netflix's content strategy is shaped by:
+This Exploratory Data Analysis provides clear, measurable evidence of how Netflix shapes its global content strategy.  
+The dataset used for this analysis was sourced from **Kaggle**, ensuring a reliable, community-validated foundation for exploration.
 
-- A strong emphasis on **recent**, **diverse**, and **globally sourced content**  
-- A clear focus on **mature and teen audiences**  
-- A preference for **short, binge-worthy formats**  
-- Heavy contributions from major entertainment hubs like **the US and India**  
-- Rapid catalog expansion aligned with global market penetration  
+1. **Content Recency**  
+   - Nearly **60% of all titles were added after 2015**, indicating a strong preference for recent, high-engagement content.
 
-Overall, the dataset reflects Netflix’s evolution into a **global entertainment powerhouse**, driven by a data-backed understanding of viewer preferences and content performance.
+2. **Audience Targeting**  
+   - Over **45% of the catalog** falls under **TV-MA** and **TV-14**, showing Netflix’s focus on mature and teen audiences who dominate global streaming consumption.
+
+3. **Format Preferences**  
+   - Approximately **70% of all titles are Movies**, with most films falling in the **85–110 minute** range.  
+   - More than **70% of TV Shows** have **1–2 seasons**, emphasizing Netflix’s push toward short, binge-worthy formats.
+
+4. **Geographic Influence**  
+   - The **United States contributes ~2,800+ titles (~32%)**, followed by **India with ~900 titles (~10%)**.  
+   - These two markets act as Netflix’s largest content hubs and primary drivers of viewer demand.
+
+5. **Growth Momentum**  
+   - Between **2017 and 2020**, Netflix added nearly **40% of its current catalog**, aligning with its most aggressive phase of global expansion.
+
+---
+
+### 📌 Overall Summary
+The dataset (sourced from **Kaggle**) clearly reflects Netflix’s evolution into a **global, data-driven entertainment powerhouse**, shaped by:
+
+- A strong bias toward **recent, diverse content**  
+- Strategic targeting of **mature and teen viewers**  
+- Production of **short, high-consumption formats**  
+- Heavy contributions from markets like the **US and India**  
+- A rapid expansion cycle backed by analytics and audience insights  
+
+These numeric insights highlight how Netflix leverages data to optimize its content decisions, regional strategy, and worldwide streaming dominance.
+
+
 
 ---
 
