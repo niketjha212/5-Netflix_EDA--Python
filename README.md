@@ -108,3 +108,12 @@ This project transforms a raw dataset into meaningful insights using Python, Pan
 - Top Countries: US, India, UK, Canada, Japan
 - Ratings: TV-MA and TV-14 are the most common categories
 
+
+
+📁 Why This Project Matters
+
+This project showcases my ability to:
+ • Work with large, messy, real-world datasets
+ • Build scalable analytics workflows
+ • Extract insights that support data-driven marketing decisions
+ • Communicate findings through clean dashboards & visualizations
