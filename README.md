@@ -3,9 +3,7 @@
 ---
 ## 🎯 What Is This Project About?
 
-This project is an end-to-end Exploratory Data Analysis (EDA) of Netflix’s global catalog of Movies and TV Shows.  
-
-The goal is to understand how Netflix structures its content library across genres, countries, ratings, release years, and formats.  
+This project is an end-to-end Exploratory Data Analysis (EDA) of Netflix’s global catalog of Movies and TV Shows. The goal is to understand how Netflix structures its content library across genres, countries, ratings, release years, and formats.  
 
 Using Python, Pandas, Matplotlib, and Seaborn, this project transforms a raw dataset from Kaggle into meaningful insights that reveal:
 
