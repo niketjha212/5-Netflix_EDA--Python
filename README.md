@@ -1,6 +1,6 @@
  # 🎬 Netflix Movies & TV Shows — Exploratory Data Analysis (EDA)
  
---
+---
 ## 🎯 What Is This Project About?
 
 This project is an end-to-end Exploratory Data Analysis (EDA) of Netflix’s global catalog of Movies and TV Shows.  
