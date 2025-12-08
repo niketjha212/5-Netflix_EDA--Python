@@ -143,7 +143,7 @@ Family-friendly content forms a much smaller portion.
 
 ---
 
-# 📁 Summary of Key Insights (At a Glance)
+## 📁 Summary of Key Insights
 
 - **Movies (~69%) dominate** over TV Shows (~31%).  
 - **TV-MA** and **TV-14** categories make up most of Netflix’s catalog.  
@@ -154,7 +154,7 @@ Family-friendly content forms a much smaller portion.
 
 ---
 
-## 📁 Conclusion (Insight-Driven)
+## 📁 Conclusion 
 
 This Exploratory Data Analysis provides clear, measurable evidence of how Netflix shapes its global content strategy.  
 The dataset used for this analysis was sourced from **Kaggle**, ensuring a reliable, community-validated foundation for exploration.
@@ -178,7 +178,7 @@ The dataset used for this analysis was sourced from **Kaggle**, ensuring a relia
 
 ---
 
-### 📌 Overall Summary
+##📌 Overall Summary
 The dataset (sourced from **Kaggle**) clearly reflects Netflix’s evolution into a **global, data-driven entertainment powerhouse**, shaped by:
 
 - A strong bias toward **recent, diverse content**  
