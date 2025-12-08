@@ -64,7 +64,7 @@ The dataset was originally published on Kaggle by community contributors and con
 
 ---
 
-# 🔍 Key Findings from the Analysis
+## 🔍 Key Findings from the Analysis
 
 ## 1️⃣ Content Composition: Movies vs TV Shows
 
