@@ -45,17 +45,19 @@ This analysis reflects the type of data investigation used in **content strategy
 
 ## 📁 Dataset Overview
 
+## 📁 Dataset Overview
+
 | Feature | Value |
-|--------|--------|
+|---------|--------|
+| **Data Source** | Publicly available dataset from **Kaggle** |
 | **Total Records** | 8,807 titles |
 | **Number of Features** | 12 columns |
 | **Content Types** | Movies (~69%), TV Shows (~31%) |
 | **Ratings Available** | 14 categories |
 | **Countries Covered** | 100+ |
 | **Missing Values** | Cleaned, treated & imputed |
-| **Data Source** | Publicly available dataset from **Kaggle** |
 
-The dataset was originally published on Kaggle by community contributors and contains detailed information on Netflix Movies and TV Shows, including type, country, release year, rating, duration, and description.
+The dataset was originally published on **Kaggle** by community contributors and contains detailed information on Netflix Movies and TV Shows, including type, country, release year, rating, duration, and description.
 
 ---
 
