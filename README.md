@@ -30,8 +30,6 @@ This analysis reflects the type of data investigation used in **content strategy
 
 ## 📁 Dataset Overview
 
-## 📁 Dataset Overview
-
 | Feature | Value |
 |--------|--------|
 | **Total Records** | 8,807 titles |
